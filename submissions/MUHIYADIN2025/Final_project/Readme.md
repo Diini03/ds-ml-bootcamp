@@ -61,21 +61,22 @@ Below are the performance results captured during model evaluation:
 
 ---
 
-## 📁 5. Directory Structure
 
-```text
+## 5. Directory Structure
+
+\`\`\`
 churn-segmentation-project/
 │
 ├── dataset/
-│   └── Telco-Customer-Churn.csv         # Raw source customer dataset
+│   └── Telco-Customer-Churn.csv        # Raw source customer dataset
 │
-├── customer_segmentation.ipynb         # Master Jupyter Notebook with end-to-end pipeline
-├── elbow_telecom.png                   # Elbow method plot generated from the code
-├── telecom_segmented_customers.csv     # Final processed dataset containing Segment_ID
-└── README.md                           # This documentation file
+├── customer_segmentation.ipynb          # Master Jupyter Notebook with end-to-end pipeline
+├── elbow_telecom.png                    # Elbow method plot generated from the code
+├── telecom_segmented_customers.csv      # Final processed dataset containing Segment_ID
+└── README.md                            # This documentation file
+\`\`\`
 
-
-**Project Repository**: [https://github.com/MUHIYADIN2025/churn-segmentation-project](https://github.com/MUHIYADIN2025/churn-segmentation-project)
+**Project Repository:** [https://github.com/MUHIYADIN2025/churn-segmentation-project](https://github.com/MUHIYADIN2025/churn-segmentation-project)
 
 ---
 
@@ -83,4 +84,3 @@ churn-segmentation-project/
 
 **Muhiadin Said Hassan**
 GitHub: [https://github.com/MUHIYADIN2025](https://github.com/MUHIYADIN2025)
-
