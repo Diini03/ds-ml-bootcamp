@@ -75,19 +75,12 @@ churn-segmentation-project/
 └── README.md                           # This documentation file
 
 
+**Project Repository**: [https://github.com/MUHIYADIN2025/churn-segmentation-project](https://github.com/MUHIYADIN2025/churn-segmentation-project)
 
+---
 
-Final Project — Customer Segmentation & Churn Prediction
+## Author
 
-Author: Muhiadin Said Hassan
-Program: Goobo Labs Machine Learning Bootcamp
+**Muhiadin Said Hassan**
+GitHub: [https://github.com/MUHIYADIN2025](https://github.com/MUHIYADIN2025)
 
-
-
-
-
-Muhiadin Said Hassan
-
-
-Project Repository: [GIT REPO]
-(https://github.com/MUHIYADIN2025/churn-segmentation-project)
